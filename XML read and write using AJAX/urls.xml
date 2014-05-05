@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<urls>
+<url><address>http://www.testing1.com/</address><admvalue>some returned value</admvalue><gsvalue>some returned value</gsvalue></url><url><address>http://www.testing2.com/</address><admvalue>some returned value</admvalue><gsvalue>some returned value</gsvalue></url><url><address>http://www.testing3.com/</address><admvalue>some returned value</admvalue><gsvalue>some returned value</gsvalue></url><url><address>http://www.testing4.com/</address><admvalue>some returned value</admvalue><gsvalue>some returned value</gsvalue></url></urls>
