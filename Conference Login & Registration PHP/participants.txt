@@ -1,0 +1,3 @@
+*;georgespeach;password;george;speach;address1;address2;city;state;zip;phone;fax;badge name;
+*;amysmith;happycakes;amy;smith;1234 happy;ln;annandale;Virginia;22032;7035018424;7035018424;Amy Smith;
+*;JustinWong;password;Justin;Wong;8733 hill ln.;;Fairfax;Virginia;22032;5412587452;;JWong;
